@@ -50,7 +50,9 @@ To use the script for uploading a file to Google Drive:
 1. Navigate to the directory containing `gdrive_upload.py`.
 2. Run the script with the path to the file you want to upload:
 
-`python gdrive_upload.py -ie myemail@myemail.com -passwd mypassword -fp path/to/your/file`
+`python gdrive_upload.py -ie myemail@myemail.com -passwd mypassword -rec receiveremail@email.com -fp path/to/your/file`
+
+3. Ensure you change `myemail@email.com`, `mypassword` accordingly, and replace `receiveremail@email.com` with the recipient email address.
 
 3. Follow the on-screen instructions to authenticate and complete the upload.
 

@@ -91,10 +91,11 @@ def send_email(recipient, smtp_user, subject, body, smtp_port=587, password='pas
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--file_name', '-fn', required=False, default=None)
-    parser.add_argument('--file_path', '-fp', required=True)
-    parser.add_argument('--email', 'ie', required=True)
-    parser.add_argument('--password', '-passwd', required=True)
+    parser.add_argument('--file_name', '-fn', required=False, default=None, help='FileName to upload, it can be left empty')
+    parser.add_argument('--file_path', '-fp', required=True, help='The path to the file to be uploaded to Google Drive. This is required')
+    parser.add_argument('--email', 'ie', required=True, help='Your Gmail Address')
+    parser.add_argument('--password', '-passwd', required=True, help='Your gmail password')
+    parser.add_argument('--recipient-email', '-rec', required=True, help='Email of Person you are sending to')
     args = parser.parse_args()
 
     # Initialize Google Drive service
