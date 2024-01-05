@@ -1,0 +1,124 @@
+\bibitem{c1} K. Dautenhahn, "Human-robot interaction: from AI to HCI and social robotics," AI Magazine, vol. 27, no. 4, pp. 27–48, 2006.
+
+\bibitem{c2} M. A. Goodrich and A. C. Schultz, "Human-robot interaction in search and rescue," Journal of Field Robotics, vol. 27, no. 6, pp. 443–475, 2010.
+
+\bibitem{c3} J. Fong, T. Williams, M. Neff, and R. N. Nagarajan, "A survey of socially interactive robots," Robotics and Autonomous Systems, vol. 42, no. 3, pp. 143–166, 2003.
+
+\bibitem{c4} S. Adebayo, S. McLoone, and J. C. Dessing, “Hand-eye-object tracking for human intention inference,” IFAC-PapersOnLine, vol. 55, no. 15, pp. 174–179, 2022.
+
+\bibitem{c5} Z. Li, Y. Mu, Z. Sun, S. Song, J. Su, and J. Zhang, “Intention understanding in human–robot interaction based on visual-NLP semantics,” Frontiers in Neurorobotics, vol. 14, 2021. 
+
+\bibitem{c6} S. P. Parikh, J. M. Esposito, and J. Searock, “The role of verbal and nonverbal communication in a two-person, cooperative manipulation task,” Advances in Human-Computer Interaction, vol. 2014, pp. 1–10, 2014. 
+
+\bibitem{c7} J. Urakami and K. Seaborn, “Nonverbal cues in human-robot interaction: A communication studies perspective,” ACM Transactions on Human-Robot Interaction, 2022. 
+
+\bibitem{c8} M. Balconi and C. Lucchiari, “Encoding of emotional facial expressions in direct and incidental tasks: Two event-related potential studies,” Australian Journal of Psychology, vol. 59, no. 1, pp. 13–23, 2007. 
+
+\bibitem{c9}. L. Schmidt and J. F. Cohn, “Human facial expressions as adaptations: Evolutionary questions in Facial Expression Research,” American Journal of Physical Anthropology, vol. 116, no. S33, pp. 3–24, 2001. 
+
+\bibitem{c10} B. Farnsworth, N. Nguyen, K. Krosschell, P. Bülow, and M. Martin, “Facial expression analysis: The Complete Pocket Guide,” iMotions, 17-Nov-2022. [Online]. Available: https://imotions.com/blog/learning/best-practice/facial-expression-analysis/. [Accessed: 11-Nov-2022]. 
+
+\bibitem{c11} Frith C. Role of facial expressions in social interactions. Philos Trans R Soc Lond B Biol Sci. 2009 Dec 12;364(1535):3453-8. doi: 10.1098/rstb.2009.0142. PMID: 19884140; PMCID: PMC2781887.
+
+\bibitem{c12} A. Jaimes and N. Sebe, “Multimodal Human–Computer Interaction: A Survey,” Computer Vision and Image Understanding, vol. 108, no. 1-2, pp. 116–134, 2007. 
+
+\bibitem{c13} M. Lombardi, E. Maiettini, D. De Tommaso, A. Wykowska, and L. Natale, “Toward an attentive robotic architecture: Learning-based Mutual Gaze Estimation in human–robot interaction,” Frontiers in Robotics and AI, vol. 9, 2022. 
+
+\bibitem{c14} F. Broz and H. Lehmann, “A gaze controller for coordinating mutual gaze during conversational turn-taking in human-robot interaction,” Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts, 2015. 
+
+\bibitem{c15} Y. Wu, G. Li, Z. Liu, M. Huang and Y. Wang, "Gaze Estimation via Modulation-Based Adaptive Network With Auxiliary Self-Learning," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 8, pp. 5510-5520, Aug. 2022, doi: 10.1109/TCSVT.2022.3152800.
+
+
+\bibitem{c16} H. Admoni and B. Scassellati, “Social Eye Gaze in human-robot interaction: A Review,” Journal of Human-Robot Interaction, vol. 6, no. 1, p. 25, 2017. 
+
+\bibitem{c17} Benoît Massé. Gaze direction in the context of social human-robot interaction. Artificial Intelligence [cs.AI]. Université Grenoble Alpes, 2018. English. ⟨NNT : 2018GREAM055⟩. ⟨tel-01936821v2⟩
+
+\bibitem{c18} R. Shaw, C. H. Sudre, S. Ourselin, and M. J. Cardoso, “A heteroscedastic uncertainty model for decoupling sources of MRI Image Quality,” arXiv.org, 31-Jan-2020. [Online]. Available: https://arxiv.org/abs/2001.11927. [Accessed: 22-Nov-2022]. 
+
+\bibitem{c19} A. Kendall and Y. Gal, “What uncertainties do we need in bayesian deep learning for computer vision?,” arXiv.org, 05-Oct-2017. [Online]. Available: https://arxiv.org/abs/1703.04977. [Accessed: 14-June-2022]. 
+
+\bibitem{c20} K. Lenc and A. Vedaldi, “Understanding image representations by measuring their equivariance and equivalence,” International Journal of Computer Vision, vol. 127, no. 5, pp. 456–476, 2018. 
+
+\bibitem{c21} R. Balestriero and Y. LeCun, “Contrastive and non-contrastive self-supervised learning recover global and local spectral embedding methods,” arXiv.org, 10-Jun-2022. [Online]. [Accessed: 07-Nov-2022]. 
+
+\bibitem{c22} S. Albelwi, “Survey on Self-Supervised Learning: Auxiliary Pretext Tasks and Contrastive Learning Methods in Imaging,” Entropy, vol. 24, no. 4, p. 551, Apr. 2022, doi: 10.3390/e24040551.
+
+\bibitem{c23} P. Punyani, R. Gupta, and A. Kumar, “Neural Networks for Facial Age estimation: A survey on recent advances,” Artificial Intelligence Review, vol. 53, no. 5, pp. 3299–3347, 2019. 
+
+\bibitem{c24} R. Zhi, M. Liu, and D. Zhang, “A comprehensive survey on Automatic Facial Action Unit Analysis,” The Visual Computer, vol. 36, no. 5, pp. 1067–1093, 2019. 
+\bibitem{c25} A. Gupta, K. Thakkar, V. Gandhi, and P. J. Narayanan, “Nose, eyes and ears: Head pose estimation by locating facial keypoints,” ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. 
+
+\bibitem{c26} Y. Cheng, H. Wang, Y. Bao, and F. Lu, “Appearance-based gaze estimation with Deep Learning: A review and benchmark,” arXiv.org, 26-Apr-2021. [Online]. Available: https://arxiv.org/abs/2104.12668. [Accessed: 16-June-2022].
+
+\bibitem{c27} X. Wang, J. Zhang, H. Zhang, S. Zhao and H. Liu, "Vision-Based Gaze Estimation: A Review," in IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 2, pp. 316-332, June 2022, doi: 10.1109/TCDS.2021.3066465.
+
+\bibitem{c28} N. Modi and J. Singh, “A review of various state of Art Eye Gaze Estimation Techniques,” SpringerLink, 01-Jan-1970. [Online]. Available: https://link.springer.com/chapter/10.1007/978-981-15-1275-9-41. [Accessed: 15-Jan-2023]. 
+
+\bibitem{c29} P. Pathirana, S. Senarath, D. Meedeniya, and S. Jayarathna, “Eye gaze estimation: A survey on deep learning-based approaches,” Expert Systems with Applications, vol. 199, p. 116894, 2022. 
+
+\bibitem{c30} G. Huang, Z. Liu, L. Van Der Maaten and K. Q. Weinberger, "Densely Connected Convolutional Networks," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2261-2269, doi: 10.1109/CVPR.2017.243.
+
+\bibitem{c31} K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. 
+
+\bibitem{c32} S. Liu and W. Deng, "Very deep convolutional neural network based image classification using small training sample size," 2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR), 2015, pp. 730-734, doi: 10.1109/ACPR.2015.7486599.
+
+\bibitem{c33} X. Zhang, Y. Sugano, M. Fritz, and A. Bulling, “MPIIGaze: Real-world dataset and deep appearance-based gaze estimation,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 41, no. 1, pp. 162–175, 2019. 
+
+\bibitem{c34} X. Zhang, Y. Sugano, M. Fritz, and A. Bulling, “It’s written all over your face: Full-face appearance-based gaze estimation,” 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017. 
+
+\bibitem{c35} K. Wang, R. Zhao, H. Su, and Q. Ji, “Generalizing eye tracking with Bayesian adversarial learning,” 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+
+\bibitem{c36} X. Zhou, J. Lin, Z. Zhang, Z. Shao, S. Chen, and H. Liu, “Improved itracker combined with bidirectional long short-term memory for 3D gaze estimation using appearance cues,” Neurocomputing, vol. 390, pp. 217–225, 2020. 
+
+\bibitem{c37} Palmero, C., Selva, J., Bagheri, M.A. and Escalera, S., 2018. Recurrent cnn for 3d gaze estimation using appearance and shape cues. arXiv preprint arXiv:1805.03064.
+
+\bibitem{c38} K. Wang, H. Su, and Q. Ji, “Neuro-inspired eye tracking with Eye Movement Dynamics,” 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+
+\bibitem{c39} P. Kellnhofer, A. Recasens, S. Stent, W. Matusik, and A. Torralba, “Gaze360: Physically unconstrained gaze estimation in the wild,” 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 2019. 
+
+\bibitem{c40} K. Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba, “Eye tracking for everyone,” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+
+\bibitem{c41} Y. Cheng, X. Zhang, F. Lu and Y. Sato, "Gaze estimation by exploring two-eye asymmetry", IEEE Trans. Image Process., vol. 29, pp. 5259-5272, 2020.
+
+\bibitem{c42} T. Fischer, H. J. Chang and Y. Demiris, "RT-GENE: Real-time eye gaze estimation in natural environments", Proc. ECCV, pp. 339-357, 2018.
+
+\bibitem{c43} C. Palmero, J. Selva, M. A. Bagheri, M. B. Ca and S. Escalera, "Recurrent CNN for 3D gaze estimation using appearance and shape cues", Proc. BMVC, pp. 1-13, 2018.
+
+\bibitem{c44} Farkhondeh, A. et al. (2022) Towards self-supervised gaze estimation, arXiv.org. Available at: https://arxiv.org/abs/2203.10974 (Accessed: October 11, 2022). 
+\bibitem{c45} Ohri, K. and Kumar, M. (2021) “Review on self-supervised image recognition using Deep Neural Networks,” Knowledge-Based Systems, 224, p. 107090. Available at: https://doi.org/10.1016/j.knosys.2021.107090. 
+
+\bibitem{c46} Deldari, S. et al. (2022) Beyond just vision: A review on self-supervised representation learning on multimodal and Temporal Data, arXiv.org. Available at: https://arxiv.org/abs/2206.02353 (Accessed: December 16, 2023). 
+
+\bibitem{c47}  M. Caron, I. Misra, J. Mairal, P. Goyal, P. Bojanowski, and A. Joulin, “Unsupervised learning of visual features by contrasting cluster assignments,” arXiv.org, 08-Jan-2021. [Online]. Available: https://arxiv.org/abs/2006.09882. [Accessed: 17-Nov-2022]. 
+
+\bibitem{c48}  N. Dubey, S. Ghosh, and A. Dhall, “Unsupervised learning of eye gaze representation from the web,” 2019 International Joint Conference on Neural Networks (IJCNN), 2019.
+
+\bibitem{c49} Z. Wu, S. Rajendran, T. Van As, V. Badrinarayanan, and A. Rabinovich, “EyeNet: A multi-task deep network for off-axis eye gaze estimation,” 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), 2019. 
+
+\bibitem{c50} S. Jyoti and A. Dhall, “Automatic eye gaze estimation using geometric \& amp; texture-based networks,” 2018 24th International Conference on Pattern Recognition (ICPR), 2018.
+
+\bibitem{c51} S. Li, W. Deng, and J. P. Du, “Reliable crowdsourcing and deep locality-preserving learning for expression recognition in the wild,” 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. 
+
+% \bibitem{c51} X. Zhang, Y. S. O. University, Y. Sugano, and A. Bulling, “Revisiting data normalization for appearance-based gaze estimation: Proceedings of the 2018 ACM Symposium on Eye Tracking Research \&amp; Applications,” ACM Conferences, 01-Jun-2018. [Online]. Available: https://dl.acm.org/doi/10.1145/3204493.3204548. [Accessed: 25-Nov-2022]. 
+\bibitem{c52} A. Mollahosseini, B. Hasani, and M. H. Mahoor, “AffectNet: A database for facial expression, Valence, and arousal computing in the wild,” IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18–31, 2019. 
+
+\bibitem{c53} X. Zhang, S. Park, T. Beeler, D. Bradley, S. Tang, and O. Hilliges, “ETH-XGaze: A large scale dataset for gaze estimation under extreme head pose and gaze variation,” Computer Vision – ECCV 2020, pp. 365–381, 2020.
+\bibitem{c54} L. Sidenmark and A. Lundström, “Gaze behaviour on interacted objects during hand interaction in virtual reality for eye tracking calibration,” Proceedings of the 11th ACM Symposium on Eye Tracking Research \& amp; Applications, 2019. 
+\bibitem{c55} D. Trombetta, G. S. Rotithor, I. Salehi, and A. P. Dani, “Human intention estimation using fusion of pupil and hand motion,” IFAC-PapersOnLine, vol. 53, no. 2, pp. 9535–9540, 2020.
+\bibitem{c56} “Pytorch-Lightning,” PyPI. [Online]. Available: https://pypi.org/project/pytorch-lightning/. [Accessed: 24-Nov-2022]. 
+
+\bibitem{c57} dlib. (n.d.). "dlib: A toolkit for making real world machine learning and data analysis applications in C++." [Python library]. Available: http://dlib.net/python/index.html
+
+\bibitem{c58} K. A. Funes Mora, F. Monay, and J.-M. Odobez, “Eyediap,” Proceedings of the Symposium on Eye Tracking Research and Applications, 2014. doi:10.1145/2578153.2578190 
+
+\bibitem{c59} A. A. Abdelrahman, T. Hempel, A. Khalifa, and A. Al-Hamadi, “L2CS-net: Fine-grained gaze estimation in unconstrained environments,” NASA/ADS. [Online]. Available: https://ui.adsabs.harvard.edu/abs/2022arXiv220303339A/abstract. [Accessed: 10-Oct-2022].
+
+\bibitem{c60} Z. Chen and B. E. Shi, “Appearance-based gaze estimation using dilated-convolutions,” Computer Vision – ACCV 2018, pp. 309–324, 2019. doi:10.1007/978-3-030-20876-9\_20
+
+\bibitem {c61} V. Nair and G. E. Hinton, “Rectified linear units improve restricted boltzmann machines: Proceedings of the 27th International Conference on International Conference on Machine Learning,” Guide Proceedings, 01-Jun-2010. [Online]. Available: https://dl.acm.org/doi/10.5555/3104322.3104425. [Accessed: 24-Nov-2022]. 
+
+\bibitem{c62} L. Bottou, “Large-scale machine learning with stochastic gradient descent,” Proceedings of COMPSTAT’2010, pp. 177–186, 2010. doi:10.1007/978-3-7908-2604-3\_16 
+
+\bibitem{c63}Szegedy, C., Ioffe, S., Vanhoucke, V., \& Alemi, A. A. (2017). Inception-v4, Inception-ResNet and the impact of residual connections on learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 31, No. 1).
+
+\bibitem{c64} J. Jiang and W. Deng, "Disentangling Identity and Pose for Facial Expression Recognition," in IEEE Transactions on Affective Computing, vol. 13, no. 4, pp. 1868-1878, 1 Oct.-Dec. 2022, doi: 10.1109/TAFFC.2022.3197761.
