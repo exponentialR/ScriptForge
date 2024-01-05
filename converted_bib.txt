@@ -1,0 +1,8 @@
+@article{Slyklatent_c11,
+  title={"Role of facial expressions in social interactions"},
+  author={"C Frith - Philosophical Transactions of the Royal Society …, 2009 - royalsocietypublishing.org"},
+  journal={"Philosophical Transactions of the Royal Society …, 2009"},
+  year={"2009"},
+  link={"https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0142"}
+}
+
