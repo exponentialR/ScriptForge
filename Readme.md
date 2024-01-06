@@ -4,6 +4,10 @@
 This repository is a collection of utility scripts that I use frequently for various tasks. Each script serves a specific purpose, designed to streamline and automate processes that are otherwise repetitive or cumbersome. 
 
 ---
+- [x] Uploading to Google Drive Script 
+- [x] Linux ClickableDecktop Application, from bash to gui
+- [x] Convert txt to References.
+- [x] Scrapping Google Scholar for References
 
 ## Scripts in This Repository
 
