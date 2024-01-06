@@ -99,8 +99,7 @@
 
 \bibitem{c51} S. Li, W. Deng, and J. P. Du, “Reliable crowdsourcing and deep locality-preserving learning for expression recognition in the wild,” 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. 
 
-% \bibitem{c51} X. Zhang, Y. S. O. University, Y. Sugano, and A. Bulling, “Revisiting data normalization for appearance-based gaze estimation: Proceedings of the 2018 ACM Symposium on Eye Tracking Research \&amp; Applications,” ACM Conferences, 01-Jun-2018. [Online]. Available: https://dl.acm.org/doi/10.1145/3204493.3204548. [Accessed: 25-Nov-2022]. 
-\bibitem{c52} A. Mollahosseini, B. Hasani, and M. H. Mahoor, “AffectNet: A database for facial expression, Valence, and arousal computing in the wild,” IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18–31, 2019. 
+\bibitem{c52} A. Mollahosseini, B. Hasani, and M. H. Mahoor, “AffectNet: A database for facial expression, Valence, and arousal computing in the wild,” IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18–31, 2019.
 
 \bibitem{c53} X. Zhang, S. Park, T. Beeler, D. Bradley, S. Tang, and O. Hilliges, “ETH-XGaze: A large scale dataset for gaze estimation under extreme head pose and gaze variation,” Computer Vision – ECCV 2020, pp. 365–381, 2020.
 \bibitem{c54} L. Sidenmark and A. Lundström, “Gaze behaviour on interacted objects during hand interaction in virtual reality for eye tracking calibration,” Proceedings of the 11th ACM Symposium on Eye Tracking Research \& amp; Applications, 2019. 
