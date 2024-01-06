@@ -24,6 +24,3 @@ for match in matches:
         'title': title,
         'doi': doi
     })
-#
-# for j, i in enumerate(extracted_data):
-#     print(j+1, i)
