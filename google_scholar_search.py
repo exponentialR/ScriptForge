@@ -1,6 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
+FILE_PATH = 'latex-bib.txt'
+from extract_bib import extract_latex_bib
+
 
 def generate_citation_key(author_info, year):
     author_lastname = author_info.split(',')[0].split()[-1] if author_info else 'Unknown'
@@ -38,7 +41,11 @@ def search_google_scholar(query, authors=None, year=None, doi=None, citation_key
             citation_key = generate_citation_key(author_info, publication_year)
 
         # Formatting the result in the required bibliographic style
-        return f"@article{{{citation_key},\n  title={{\"{title}\"}},\n  author={{\"{author_info}\"}},\n  journal={{\"{venue}\"}},\n  year={{\"{publication_year}\"}},\n  link={{\"{link}\"}}\n}}"
+        return f"@article{{{citation_key},\n  title={{\"{title}\"}},\n  " \
+               f"author={{\"{author_info}\"}},\n  " \
+               f"journal={{\"{venue}\"}},\n  " \
+               f"year={{\"{publication_year}\"}},\n  " \
+               f"link={{\"{link}\"}}, \n abstract={{\"{abstract}\"}}}}"
 
     else:
         return "No results found"
@@ -49,6 +56,8 @@ def put_ref_text(result, filename='converted_bib.txt'):
         file.write(result + "\n\n")
 
 
-query = "Role of facial expressions in social interactions"
-result = search_google_scholar(query, year='2009', doi='10.1098/rstb.2009.0142', citation_key='Slyklatent_c18')
-put_ref_text(result)
+extracted_bib = extract_latex_bib(FILE_PATH)
+for citation_key, data in enumerate(extracted_bib[:10]):
+    query, year, doi, = data['title'], data['year'], data['doi']
+    result = search_google_scholar(query, year=year, doi=doi, citation_key=f'Slyklatent_c{citation_key+1}')
+    put_ref_text(result)
