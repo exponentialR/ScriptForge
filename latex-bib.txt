@@ -24,7 +24,7 @@
 
 \bibitem{c13} M. Lombardi, E. Maiettini, D. De Tommaso, A. Wykowska, and L. Natale, “Toward an attentive robotic architecture: Learning-based Mutual Gaze Estimation in human–robot interaction,” Frontiers in Robotics and AI, vol. 9, 2022. 
 
-\bibitem{c14} F. Broz and H. Lehmann, “A gaze controller for coordinating mutual gaze during conversational turn-taking in human-robot interaction,” Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts, 2015. 
+\bibitem{c14} Das, D., Rashed, Md. G., Kobayashi, Y., \& amp; Kuno, Y. (2015). Supporting human–robot interaction based on the level of visual focus of attention. IEEE Transactions on Human-Machine Systems, 45(6), 664–675. doi:10.1109/thms.2015.2445856 
 
 \bibitem{c15} Y. Wu, G. Li, Z. Liu, M. Huang and Y. Wang, "Gaze Estimation via Modulation-Based Adaptive Network With Auxiliary Self-Learning," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 8, pp. 5510-5520, Aug. 2022, doi: 10.1109/TCSVT.2022.3152800.
 
@@ -56,11 +56,11 @@
 
 \bibitem{c29} P. Pathirana, S. Senarath, D. Meedeniya, and S. Jayarathna, “Eye gaze estimation: A survey on deep learning-based approaches,” Expert Systems with Applications, vol. 199, p. 116894, 2022. 
 
-\bibitem{c30} G. Huang, Z. Liu, L. Van Der Maaten and K. Q. Weinberger, "Densely Connected Convolutional Networks," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2261-2269, doi: 10.1109/CVPR.2017.243.
+\bibitem{c30} D. Windridge, A. Shaukat and E. Hollnagel, "Characterizing Driver Intention via Hierarchical Perception–Action Modeling," in IEEE Transactions on Human-Machine Systems, vol. 43, no. 1, pp. 17-31, Jan. 2013, doi: 10.1109/TSMCA.2012.2216868.
 
-\bibitem{c31} K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. 
+\bibitem{c31} Blundell, J., Collins, C., Sears, R., Plioutsias, T., Huddlestone, J., Harris, D., … Lamb, P. (2023). Multivariate analysis of Gaze Behavior and task performance within Interface Design Evaluation. IEEE Transactions on Human-Machine Systems, 53(5), 875–884. doi:10.1109/thms.2023.3305715 
 
-\bibitem{c32} S. Liu and W. Deng, "Very deep convolutional neural network based image classification using small training sample size," 2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR), 2015, pp. 730-734, doi: 10.1109/ACPR.2015.7486599.
+\bibitem{c32} A. Dini, C. Murko, S. Yahyanejad, U. Augsdörfer, M. Hofbaur and L. Paletta, "Measurement and prediction of situation awareness in human-robot interaction based on a framework of probabilistic attention," 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 4354-4361, doi: 10.1109/IROS.2017.8206301.
 
 \bibitem{c33} X. Zhang, Y. Sugano, M. Fritz, and A. Bulling, “MPIIGaze: Real-world dataset and deep appearance-based gaze estimation,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 41, no. 1, pp. 162–175, 2019. 
 
@@ -84,7 +84,8 @@
 
 \bibitem{c43} C. Palmero, J. Selva, M. A. Bagheri, M. B. Ca and S. Escalera, "Recurrent CNN for 3D gaze estimation using appearance and shape cues", Proc. BMVC, pp. 1-13, 2018.
 
-\bibitem{c44} Farkhondeh, A. et al. (2022) Towards self-supervised gaze estimation, arXiv.org. Available at: https://arxiv.org/abs/2203.10974 (Accessed: October 11, 2022). 
+\bibitem{c44} Farkhondeh, A. et al. (2022) Towards self-supervised gaze estimation, arXiv.org. Available at: https://arxiv.org/abs/2203.10974 (Accessed: October 11, 2022).
+\balance
 \bibitem{c45} Ohri, K. and Kumar, M. (2021) “Review on self-supervised image recognition using Deep Neural Networks,” Knowledge-Based Systems, 224, p. 107090. Available at: https://doi.org/10.1016/j.knosys.2021.107090. 
 
 \bibitem{c46} Deldari, S. et al. (2022) Beyond just vision: A review on self-supervised representation learning on multimodal and Temporal Data, arXiv.org. Available at: https://arxiv.org/abs/2206.02353 (Accessed: December 16, 2023). 
@@ -99,7 +100,7 @@
 
 \bibitem{c51} S. Li, W. Deng, and J. P. Du, “Reliable crowdsourcing and deep locality-preserving learning for expression recognition in the wild,” 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. 
 
-\bibitem{c52} A. Mollahosseini, B. Hasani, and M. H. Mahoor, “AffectNet: A database for facial expression, Valence, and arousal computing in the wild,” IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18–31, 2019.
+\bibitem{c52} A. Mollahosseini, B. Hasani, and M. H. Mahoor, “AffectNet: A database for facial expression, Valence, and arousal computing in the wild,” IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18–31, 2019. 
 
 \bibitem{c53} X. Zhang, S. Park, T. Beeler, D. Bradley, S. Tang, and O. Hilliges, “ETH-XGaze: A large scale dataset for gaze estimation under extreme head pose and gaze variation,” Computer Vision – ECCV 2020, pp. 365–381, 2020.
 \bibitem{c54} L. Sidenmark and A. Lundström, “Gaze behaviour on interacted objects during hand interaction in virtual reality for eye tracking calibration,” Proceedings of the 11th ACM Symposium on Eye Tracking Research \& amp; Applications, 2019. 
@@ -121,3 +122,9 @@
 \bibitem{c63}Szegedy, C., Ioffe, S., Vanhoucke, V., \& Alemi, A. A. (2017). Inception-v4, Inception-ResNet and the impact of residual connections on learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 31, No. 1).
 
 \bibitem{c64} J. Jiang and W. Deng, "Disentangling Identity and Pose for Facial Expression Recognition," in IEEE Transactions on Affective Computing, vol. 13, no. 4, pp. 1868-1878, 1 Oct.-Dec. 2022, doi: 10.1109/TAFFC.2022.3197761.
+
+\bibitem{c65} K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. 
+
+\bibitem{c66} G. Huang, Z. Liu, L. Van Der Maaten and K. Q. Weinberger, "Densely Connected Convolutional Networks," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2261-2269, doi: 10.1109/CVPR.2017.243.
+
+\bibitem{c67} S. Liu and W. Deng, "Very deep convolutional neural network based image classification using small training sample size," 2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR), 2015, pp. 730-734, doi: 10.1109/ACPR.2015.7486599.
