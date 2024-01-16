@@ -63,6 +63,14 @@ To use the script for uploading a file to Google Drive:
 The first time you run the script, it will prompt you to log into your Google account and grant the necessary permissions. This process will create a `token.pickle` file in the same directory, storing your authentication tokens for future use.
 
 ---
+### 2. Add audio to Video of Variable Length
+#### Prerequisite 
+- You need moviepy
+`pip3 install moviepy`
+- You also need to create your own audio file, you can go [here to download free audio](https://pixabay.com/music/search/underground/) of variable length, however ensure the length of the audio is more than the length of the video with maximum length.
+
+- refer to `audio/add_audio.py` to use
+
 
 ## Contributing
 Contributions to this repository are welcome. Please feel free to fork the repository, make changes, and submit pull requests. For major changes or new scripts, please open an issue first to discuss what you would like to change.
