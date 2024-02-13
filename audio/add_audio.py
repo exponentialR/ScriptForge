@@ -1,7 +1,6 @@
 import os.path
 
 from moviepy.editor import VideoFileClip, AudioFileClip
-from pathlib import Path
 from pydub import AudioSegment
 
 
