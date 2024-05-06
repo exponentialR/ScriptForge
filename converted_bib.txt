@@ -1,0 +1,46 @@
+@article{Slyklatent_c1,
+  title={"Socially intelligent robots: dimensions of human–robot interaction"},
+  author={"K Dautenhahn - … transactions of the royal society B …, 2007 - royalsocietypublishing.org"},
+  journal={"… transactions of the royal society B …, 2007"},
+  year={"2007"},
+  link={"https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2006.2004"}, 
+ abstract={"… intelligence should be viewed as a fundamental ingredient of intelligent and social robots. … 
+2006 Perception of robot smiles and dimensions for human–robot interaction design. In Proc…"}}
+
+@article{Slyklatent_c2,
+  title={"The search for survivors: Cooperative human-robot interaction in search and rescue environments using semi-autonomous robots"},
+  author={"B Doroodgar, M Ficocelli, B Mobedi… - 2010 IEEE International …, 2010 - ieeexplore.ieee.org"},
+  journal={"2010 IEEE International …, 2010"},
+  year={"2010"},
+  link={"https://ieeexplore.ieee.org/abstract/document/5509530/"}, 
+ abstract={"… years, mobile robotic systems are being developed to aid rescue workers in urban search and 
+rescue (… tasks at hand are: (i) to find and rescue victims in the rubble or debris as efficiently …"}}
+
+@article{Slyklatent_c3,
+  title={"A survey of socially interactive robots"},
+  author={"T Fong, I Nourbakhsh, K Dautenhahn - Robotics and autonomous systems, 2003 - Elsevier"},
+  journal={"Robotics and autonomous systems, 2003"},
+  year={"2003"},
+  link={"https://www.sciencedirect.com/science/article/pii/S092188900200372X"}, 
+ abstract={"This paper reviews “socially interactive robots”: robots for which social human–robot interaction is important. We begin by discussing the context for socially interactive robots, emphasizing the relationship to other research fields and the different forms of “social robots”. We then present a taxonomy of design methods and system components used to build socially interactive robots. Finally, we describe the impact of these robots on humans and discuss open issues. An expanded version of this paper, which contains a survey and …"}}
+
+@article{Slyklatent_c4,
+  title={"Hand-Eye-Object Tracking for Human Intention Inference"},
+  author={"S Adebayo, S McLoone, JC Dessing - IFAC-PapersOnLine, 2022 - Elsevier"},
+  journal={"IFAC"},
+  year={"IFAC"},
+  link={"https://www.sciencedirect.com/science/article/pii/S2405896322010382"}, 
+ abstract={"Optimizing human-robot interaction in the performance of collaborative tasks is a challenging problem. An important aspect of this problem relates to the robot's understanding of human intentions. Empowering robots with accurate intention inference capabilities sets the stage for more natural, safe, and effcient interactions and greater confidence in the Human-Robot Interaction domain. Intentions can be deduced by observing human cues as they interact with the environment, but currently, there is no clear-cut method …"}}
+
+No results found
+
+@article{Slyklatent_c6,
+  title={"Panoptic studio: A massively multiview system for social motion capture"},
+  author={"H Joo, H Liu, L Tan, L Gui, B Nabbe… - Proceedings of the …, 2015 - openaccess.thecvf.com"},
+  journal={"Proceedings of the …, 2015"},
+  year={"2015"},
+  link={"http://openaccess.thecvf.com/content_iccv_2015/html/Joo_Panoptic_Studio_A_ICCV_2015_paper.html"}, 
+ abstract={"We present an approach to capture the 3D structure and motion of a group of people engaged in a social interaction. The core challenges in capturing social interactions are:(1) occlusion is functional and frequent;(2) subtle motion needs to be measured over a space large enough to host a social group; and (3) human appearance and configuration variation is immense. The Panoptic Studio is a system organized around the thesis that social interactions should be measured through the perceptual integration of a large variety of view …"}}
+
+No results found
+

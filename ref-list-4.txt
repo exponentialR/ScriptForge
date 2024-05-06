@@ -1,0 +1,106 @@
+\bibitem{c1} K. Dautenhahn, "Human-robot interaction: from AI to HCI and social robotics," AI Magazine, vol. 27, no. 4, pp. 27–48, 2006.
+
+\bibitem{c2} M. A. Goodrich and A. C. Schultz, "Human-robot interaction in search and rescue," Journal of Field Robotics, vol. 27, no. 6, pp. 443–475, 2010.
+
+\bibitem{c3} J. Fong, T. Williams, M. Neff, and R. N. Nagarajan, "A survey of socially interactive robots," Robotics and Autonomous Systems, vol. 42, no. 3, pp. 143–166, 2003.
+
+\bibitem{c4} S. Adebayo, S. McLoone, and J. C. Dessing, “Hand-eye-object tracking for human intention inference,” IFAC-PapersOnLine, vol. 55, no. 15, pp. 174–179, 2022.
+
+\bibitem{c5} S. Adebayo, ‘exponentialR/QUBVidCalib’. Feb. 17, 2024. Accessed: May 06, 2024. [Online]. Available: https://github.com/exponentialR/QUBVidCalib
+
+\bibitem{c7} Adebayo, S., Dessing, J. C., \& McLoone, S. (2024). SLYKLatent, a Learning Framework for Facial Features Estimation. arXiv preprint arXiv:2402.01555.
+
+\bibitem{c8} M. Chung, "Awesome-hri-datasets," GitHub repository, n.d. [Online]. Available: https://github.com/mjyc/awesome-hri-datasets. [Accessed: 21-11-2023]
+
+\bibitem{c9} Joo, Hanbyul, Hao Liu, Lei Tan, Lin Gui, Bart Nabbe, Iain Matthews, Takeo Kanade, Shohei Nobuhara, and Yaser Sheikh. "Panoptic studio: A massively multiview system for social motion capture." In Proceedings of the IEEE International Conference on Computer Vision, pp. 3334-3342. 2015.
+
+\bibitem{c10} Grauman, K., Westbury, A., Byrne, E., Chavis, Z., Furnari, A., Girdhar, R., Hamburger, J., Jiang, H., Liu, M., Liu, X. and Martin, M., 2022. Ego4d: Around the world in 3,000 hours of egocentric video. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18995-19012).
+
+\bibitem{c11} Nguyen, TVT, Georgescu, A, Di Giulio, I \& Celiktutan, O 2023, A Multimodal Dataset for Robot Learning to Imitate Social Human-Human Interaction. in Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI’23 Companion). ACM.
+
+\bibitem{c12} Sanjay Bilakhia, Stavros Petridis, Anton Nijholt, and Maja Pantic. 2015. The MAHNOB Mimicry Database: A database of naturalistic human interactions. Pattern recognition letters 66 (2015), 52–61.
+
+\bibitem{c13} Angeliki Metallinou, Zhaojun Yang, Chi-chun Lee, Carlos Busso, Sharon Carnicke, and Shrikanth Narayanan. 2016. The USC CreativeIT database of multimodal dyadic interactions: From speech and full body motion capture to continuous emotional annotations. Language resources and evaluation 50, 3 (2016), 497–521.
+
+\bibitem{c14} Michel-Pierre Jansen, Khiet P Truong, Dirk KJ Heylen, and Deniece S Nazareth. 2020. Introducing MULAI: A multimodal database of laughter during dyadic interactions. In Proceedings of the 12th Language Resources and Evaluation Conference. 4333–4342.
+
+\bibitem{c15} Elif Bozkurt, Hossein Khaki, Sinan Keçeci, B Berker Türker, Yücel Yemez, and Engin Erzin. 2017. The JESTKOD database: an affective multimodal database of dyadic interactions. Language Resources and Evaluation 51, 3 (2017), 857–872.
+
+\bibitem{c16} Cristina Palmero, Javier Selva, Sorina Smeureanu, Julio Junior, CS Jacques, Albert Clapés, Alexa Moseguí, Zejian Zhang, David Gallardo, Georgina Guilera, et al. 2021. Context-aware personality inference in dyadic scenarios: Introducing the udiva dataset. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 1–12.
+
+\bibitem{c17} Gabriele Calabrò, Andrea Bizzego, Stefano Cainelli, Cesare Furlanello, and Paola Venuti. 2021. M-MS: A Multi-Modal Synchrony Dataset to Explore Dyadic Interaction in ASD. In Progresses in Artificial Intelligence and Neural Systems. Springer, 543–553.
+
+\bibitem{c18} Fumio Nihei, Yukiko I Nakano, Yuki Hayashi, Hung-Hsuan Hung, and Shogo Okada. 2014. Predicting influential statements in group discussions using speech and head motion information. In Proceedings of the 16th International Conference on Multimodal Interaction. 136–143.
+
+\bibitem{c19} Nuno Ferreira Duarte, Mirko Rakovic, Jorge S Marques, José Santos-Victor, L Leal- Taixe, and S Roth. 2018. Action Alignment from Gaze Cues in Human-Human and Human-Robot Interaction.. In ECCV Workshops (3). 197–212.
+
+\bibitem{c20} Huili Chen, Yue Zhang, Felix Weninger, Rosalind Picard, Cynthia Breazeal, and Hae Won Park. 2020. Dyadic speech-based affect recognition using dami-p2c parent-child multimodal interaction dataset. In Proceedings of the 2020 International Conference on Multimodal Interaction. 97–106.
+
+\bibitem{c21} Carlos Busso, Srinivas Parthasarathy, Alec Burmania, Mohammed AbdelWahab, Najmeh Sadoughi, and Emily Mower Provost. 2016. MSP-IMPROV: An acted corpus of dyadic interactions to study emotion perception. IEEE Transactions on Affective Computing 8, 1 (2016), 67–80.
+
+\bibitem{c22} Iftekhar Naim, M Iftekhar Tanveer, Daniel Gildea, and Mohammed Ehsan Hoque. 2015. Automated prediction and analysis of job interview performance: The role of what you say and how you say it. In 2015 11th IEEE international conference and workshops on automatic face and gesture recognition (FG), Vol. 1. IEEE, 1–6.
+
+\bibitem{c23} Gilwoo Lee, Zhiwei Deng, Shugao Ma, Takaaki Shiratori, Siddhartha S Srinivasa, and Yaser Sheikh. 2019. Talking with hands 16.2 m: A largescale dataset of synchronized body-finger motion and audio for conversational motion analysis and synthesis. In Proceedings of the IEEE/CVF International Conference on Computer Vision. 763–772.
+
+\bibitem{c24} H. Meyerson, P. Olikkal, D. Pei, and R. Vinjamuri, ‘Introductory Chapter: Human-Robot Interaction – Advances and Applications’, in Human-Robot Interaction, R. Vinjamuri, Ed., Rijeka: IntechOpen, 2023. doi: 10.5772/intechopen.109343.
+
+\bibitem {c25} S. Nahavandi, ‘Industry 5.0—A Human-Centric Solution’, Sustainability, vol. 11, no. 16, Art. no. 16, Jan. 2019, doi: 10.3390/su11164371.
+
+\bibitem{c26}‘Industry 5.0 - European Commission’. Accessed: Mar. 09, 2024. [Online]. Available: https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/industry-50\_en
+
+\bibitem{c27} J. Urakami and K. Seaborn, ‘Nonverbal Cues in Human–Robot Interaction: A Communication Studies Perspective’, J. Hum.-Robot Interact., vol. 12, no. 2, p. 22:1-22:21, Mar. 2023, doi: 10.1145/3570169.
+
+\bibitem{c28} Lee, Y. K., Jung, Y., Kang, G., \& Hahn, S. (2023). Developing social robots with empathetic non-verbal cues using large language models. arXiv preprint arXiv:2308.16529.
+
+\bibitem{c29} Saunderson, Shane and Goldie Nejat. “How Robots Influence Humans: A Survey of Nonverbal Communication in Social Human–Robot Interaction.” International Journal of Social Robotics 11 (2019): 575 - 608.
+
+\bibitem{c30} Stanton, C. J., \& Stevens, C. J. (2017). Don’t stare at me: the impact of a humanoid robot’s gaze upon trust during a cooperative human–robot visual task. International Journal of Social Robotics, 9, 745-753.
+
+\bibitem{c31} Admoni, H., \& Scassellati, B. (2017). Social eye gaze in human-robot interaction: a review. Journal of Human-Robot Interaction, 6(1), 25-63.
+
+\bibitem{c32} Ge, Xianliang \& Yunxian, Pan \& Wang, Sujie \& Qian, Linze \& Yuan, Jingjia \& Xu, Jie \& Thakor, Nitish \& Sun, Yu. (2022). Improving Intention Detection in Single-Trial Classification Through Fusion of EEG and Eye-Tracker Data. IEEE Transactions on Human-Machine Systems. PP. 1-10. 10.1109/THMS.2022.3225633. 
+
+\bibitem{c33} Yujie Nie and Xin Ma. 2021. Gaze Based Implicit Intention Inference with Historical Information of Visual Attention for Human-Robot Interaction. In Intelligent Robotics and Applications: 14th International Conference, ICIRA 2021, Yantai, China, October 22–25, 2021, Proceedings, Part III. Springer-Verlag, Berlin, Heidelberg, 293–303. https://doi.org/10.1007/978-3-030-89134-3\_27
+
+\bibitem{c34} Blundell, J., Collins, C., Sears, R., Plioutsias, T., Huddlestone, J., Harris, D., Harrison, J., Kershaw, A., Harrison, P., \& Lamb, P. (2023). Multivariate Analysis of Gaze Behavior and Task Performance Within Interface Design Evaluation. IEEE Transactions on Human-Machine Systems, 53, 875-884.
+
+\bibitem{c35} Peißl, S., Wickens, C.D., \& Baruah, R. (2018). Eye-Tracking Measures in Aviation: A Selective Literature Review. The International Journal of Aerospace Psychology, 28, 112 - 98.
+
+\bibitem{c36} Wang, S., Zhang, Y., \& Zheng, Y. (2021). Multi-ship encounter situation adaptive understanding by individual navigation intention inference. Ocean Engineering, 237, 109612.
+
+\bibitem{c37} Sheridan, T. B. (2016). Human–Robot Interaction: Status and Challenges. Human Factors, 58(4), 525-532. https://doi.org/10.1177/0018720816644364
+
+\bibitem{c38} ‘Human-Robot Interaction (HRI) - Current challenges’. Accessed: Mar. 11, 2024. [Online]. Available: https://roboticsbiz.com/human-robot-interaction-hri-current-challenges/
+
+\bibitem{c39} R. Ventura, ‘Two Faces of Human–Robot Interaction: Field and Service Robots’, A. Rodić, D. Pisla, and H. Bleuler, Eds., in Mechanisms and Machine Science, vol. 20. Cham: Springer International Publishing, 2014, pp. 177–192. doi: 10.1007/978-3-319-05431-5\_12.
+
+\bibitem{c40} A. Cardoso, A. Colim, E. Bicho, A. C. Braga, M. Menozzi, and P. Arezes, ‘Ergonomics and Human Factors as a Requirement to Implement Safer Collaborative Robotic Workstations: A Literature Review’, Safety, vol. 7, no. 4, Art. no. 4, Dec. 2021, doi: 10.3390/safety7040071.
+
+\bibitem{c41} ‘Keeping workers safe in the automation revolution’, Brookings. Accessed: Mar. 13, 2024. [Online]. Available: https://www.brookings.edu/articles/keeping-workers-safe-in-the-automation-revolution/
+
+\bibitem{c42} S. Hopko, J. Wang, and R. Mehta, ‘Human Factors Considerations and Metrics in Shared Space Human-Robot Collaboration: A Systematic Review’, Front. Robot. AI, vol. 9, Feb. 2022, doi: 10.3389/frobt.2022.799522.
+
+\bibitem{c43} Y. Liu, G. Caldwell, M. Rittenbruch, M. Belek Fialho Teixeira, A. Burden, and M. Guertler, ‘What Affects Human Decision Making in Human–Robot Collaboration?: A Scoping Review’, Robotics, vol. 13, no. 2, Art. no. 2, Feb. 2024, doi: 10.3390/robotics13020030.
+
+\bibitem{c44} ‘Robotics | Free Full-Text | Research Perspectives in Collaborative Assembly: A Review’. Accessed: Mar. 13, 2024. [Online]. Available: https://www.mdpi.com/2218-6581/12/2/37
+
+\bibitem{c45} E. Mendez et al., ‘Integration of Deep Learning and Collaborative Robot for Assembly Tasks’, Applied Sciences, vol. 14, no. 2, Art. no. 2, Jan. 2024, doi: 10.3390/app14020839.
+
+\bibitem{c46} Z. Zhang, G. Peng, W. Wang, Y. Chen, Y. Jia, and S. Liu, ‘Prediction-Based Human-Robot Collaboration in Assembly Tasks Using a Learning from Demonstration Model’, Sensors, vol. 22, no. 11, Art. no. 11, Jan. 2022, doi: 10.3390/s22114279.
+
+\bibitem{c47} A. A. Malik and A. Bilberg, ‘Complexity-based task allocation in human-robot collaborative assembly’, Industrial Robot: the international journal of robotics research and application, vol. 46, no. 4, pp. 471–480, Jan. 2019, doi: 10.1108/IR-11-2018-0231.
+
+\bibitem{c48} W. Wang, Y. Chen, R. Li, and Y. Jia, ‘Learning and Comfort in Human–Robot Interaction: A Review’, Applied Sciences, vol. 9, no. 23, Art. no. 23, Jan. 2019, doi: 10.3390/app9235152.
+
+\bibitem{c49} S. Liu, L. Wang, and X. Vincent Wang, ‘Multimodal Data-Driven Robot Control for Human–Robot Collaborative Assembly’, Journal of Manufacturing Science and Engineering, vol. 144, no. 051012, Mar. 2022, doi: 10.1115/1.4053806.
+
+\bibitem{c50} ‘The PInSoRo dataset: Supporting the data-driven study of child-child and child-robot social dynamics | PLOS ONE’. Accessed: Mar. 13, 2020. [Online]. Available: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205999
+
+\bibitem{c51} P. Jenkins et al., ‘Presentation and Analysis of a Multimodal Dataset for Grounded Language Learning’. arXiv, Sep. 28, 2020. Accessed: Mar. 13, 2024. [Online]. Available: http://arxiv.org/abs/2007.14987
+
+\bibitem{c52} N. Singh, J. J. Lee, I. Grover, and C. Breazeal, ‘P2PSTORY: Dataset of Children as Storytellers and Listeners in Peer-to-Peer Interactions’, in Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, Montreal QC Canada: ACM, Apr. 2018, pp. 1–11. doi: 10.1145/3173574.3174008.
+
+\bibitem{c53} A. Ben-Youssef, C. Clavel, S. Essid, M. Bilac, M. Chamoux, and A. Lim, ‘UE-HRI: a new dataset for the study of user engagement in spontaneous human-robot interactions’, in Proceedings of the 19th ACM International Conference on Multimodal Interaction, in ICMI ’17. New York, NY, USA: Association for Computing Machinery, Nov. 2017, pp. 464–472. doi: 10.1145/3136755.3136814.
+
+\bibitem{c54} F. Iodice, E. De Momi, and A. Ajoudani, ‘HRI30: An Action Recognition Dataset for Industrial Human-Robot Interaction’, in 2022 26th International Conference on Pattern Recognition (ICPR), Aug. 2022, pp. 4941–4947. doi: 10.1109/ICPR56361.2022.9956300.
+

@@ -5,23 +5,41 @@ import glob
 
 def rectify_stereo_images(imgL, img_R, calibration_left, calibration_right):
     # Extract calibration data
-    cam_matrix_left, dist_coeffs_left = calibration_left['cam_matrix'], calibration_left['dist_coeffs']
-    cam_matrix_right, dist_coeffs_right = calibration_right['cam_matrix'], calibration_right['dist_coeffs']
+    cam_matrix_left, dist_coeffs_left = calibration_left['mtx'], calibration_left['dist']
+    cam_matrix_right, dist_coeffs_right = calibration_right['mtx'], calibration_right['dist']
     rvecs_left, tvecs_left = calibration_left['rvecs'], calibration_left['tvecs']
     rvecs_right, tvecs_right = calibration_right['rvecs'], calibration_right['tvecs']
+
+    # Print calibration parameters for left camera
+    print("Left Camera Calibration Parameters:")
+    print("Len of Camera Matrix (mtx):", len(calibration_left['mtx']))
+    print("Len of Distortion Coefficients (dist):", len(calibration_left['dist']))
+    print("Len of Rotation Vectors (rvecs):", len(calibration_left['rvecs']))
+    print("Len of Translation Vectors (tvecs):", len(calibration_left['tvecs']))
+
+    # Print calibration parameters for right camera
+    print("Right Camera Calibration Parameters:")
+    print("Len of Camera Matrix (mtx):", len(calibration_right['mtx']))
+    print("Len of Distortion Coefficients (dist):", len(calibration_right['dist']))
+    print("Len of Rotation Vectors (rvecs):", len(calibration_right['rvecs']))
+    print("Len of Translation Vectors (tvecs):", len(calibration_right['tvecs']))
+
+    # Get image dimensions
+    left_height, left_width, _ = imgL.shape
+    right_height, right_width, _ = img_R.shape
 
     # Compute rectification matrices and projection matrices
     R1, R2, P1, P2, Q, roi_left, roi_right = cv2.stereoRectify(cam_matrix_left, dist_coeffs_left,
                                                                cam_matrix_right, dist_coeffs_right,
-                                                               imgL.shape[::-1], rvecs_left, tvecs_left,
+                                                               (left_width, left_height), rvecs_left, tvecs_left,
                                                                rvecs_right, tvecs_right,
-                                                               flags=cv2.CALIB_ZERO_DISPARITY)
+                                                               flags=cv2.RANSAC)
 
     # Compute rectification maps
     left_map1, left_map2 = cv2.initUndistortRectifyMap(cam_matrix_left, dist_coeffs_left, R1, P1,
-                                                       imgL.shape[::-1], cv2.CV_16SC2)
+                                                       (left_width, left_height), cv2.CV_16SC2)
     right_map1, right_map2 = cv2.initUndistortRectifyMap(cam_matrix_right, dist_coeffs_right, R2, P2,
-                                                         img_R.shape[::-1], cv2.CV_16SC2)
+                                                         (right_width, right_height), cv2.CV_16SC2)
 
     # Remap the images
     imgL_rectified = cv2.remap(imgL, left_map1, left_map2, cv2.INTER_LANCZOS4, cv2.BORDER_CONSTANT, 0)
@@ -67,3 +85,44 @@ def depth_map(imgL, imgR, Q):
     depth_map = cv2.reprojectImageTo3D(filtered_disp, Q)
 
     return depth_map
+
+
+# function to visualize depth map
+def visualize_depth_map(depth_map):
+    # Normalize depth values for visualization
+    min_depth = np.min(depth_map)
+    max_depth = np.max(depth_map)
+    normalized_depth_map = (depth_map - min_depth) / (max_depth - min_depth)
+
+    # Apply colormap (Jet colormap is commonly used for depth visualization)
+    depth_colormap = cv2.applyColorMap((normalized_depth_map * 255).astype(np.uint8), cv2.COLORMAP_JET)
+
+    # Optionally, apply gamma correction for better visualization
+    gamma = 0.6
+    depth_colormap_corrected = np.clip(((depth_colormap / 255) ** (1 / gamma)) * 255, 0, 255).astype(np.uint8)
+
+    return depth_colormap_corrected
+
+
+if __name__ == '__main__':
+    # Load calibration data
+    calibration_left = np.load('/media/iamshri/Seagate/QUB-PHEOVision/p01/CAM_LL/calib_param_CALIBRATION.npz')
+    calibration_right = np.load('/media/iamshri/Seagate/QUB-PHEOVision/p01/CAM_LR/calib_param_CALIBRATION.npz')
+
+    # Load stereo images
+    imgL = cv2.imread('/media/iamshri/Seagate/QUB-PHEOVision/p01/CAM_LL/extracted-frames/BIAH_BS_0.jpg')
+    imgR = cv2.imread('/media/iamshri/Seagate/QUB-PHEOVision/p01/CAM_LR/extracted-frames/BIAH_BS_0.jpg')
+
+    # Rectify stereo images
+    imgL_rectified, img_R_rectified, Q = rectify_stereo_images(imgL, imgR, calibration_left, calibration_right)
+
+    # Compute depth map
+    depth_map = depth_map(imgL_rectified, img_R_rectified, Q)
+
+    # Visualize depth map
+    depth_map_visualized = visualize_depth_map(depth_map)
+
+    # Display depth map
+    cv2.imshow('Depth Map', depth_map_visualized)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()

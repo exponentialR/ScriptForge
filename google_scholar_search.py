@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-FILE_PATH = 'latex-bib.txt'
+FILE_PATH = 'ref-list-4.txt'
 from extract_bib import extract_latex_bib
 
 
@@ -57,7 +57,8 @@ def put_ref_text(result, filename='converted_bib.txt'):
 
 
 extracted_bib = extract_latex_bib(FILE_PATH)
-for citation_key, data in enumerate(extracted_bib[:10]):
+for citation_key, data in enumerate(extracted_bib[:20]):
+    print(data)
     query, year, doi, = data['title'], data['year'], data['doi']
-    result = search_google_scholar(query, year=year, doi=doi, citation_key=f'Slyklatent_c{citation_key+1}')
+    result = search_google_scholar(query, year=year, doi=doi, citation_key=f'qub-pheo_{citation_key+1}')
     put_ref_text(result)

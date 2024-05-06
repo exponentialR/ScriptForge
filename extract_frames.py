@@ -37,7 +37,6 @@ def extract_frame(video_path: str, output_folder: str = None, frame_interval: in
                 frame_name = f'{video_name}_{count}.jpg'
                 cv2.imwrite(str(output_folder / frame_name), frame)
                 pgbar.update(frame_interval)
-
             count += 1
 
         except Exception as e:
@@ -48,6 +47,17 @@ def extract_frame(video_path: str, output_folder: str = None, frame_interval: in
 
 
 if __name__ == '__main__':
-    video_path = '/home/qub-hri/Desktop/TestVideo/CAM_AV/CALIBRATION.MP4'
-    output_folder = '/home/qub-hri/Documents/Windows-Vbox/Thesis/Chapter-4/before_calib'
-    extract_frame(video_path, output_folder)
+    camera_views = ['CAM_UL', 'CAM_UR', 'CAM_LL', 'CAM_LR', 'CAM_AV']
+    for participants_id in range(3, 11):
+        for camera_view in camera_views:
+            if participants_id == 3:
+                task = 'BRIDGE_AS'
+            elif participants_id == 4:
+                task = 'TOWER_HO'
+            elif participants_id == 10:
+                task = 'TOWER_MS'
+            else:
+                continue
+            video_path = f'/media/iamshri/Seagate/QUB-PHEOVision/p{participants_id:02d}/{camera_view}/{task}.mp4'
+            output_folder = f'/media/iamshri/Seagate/QUB-PHEOVision/extracted-frames/p{participants_id:02d}/{camera_view}'
+            extract_frame(video_path, output_folder)
